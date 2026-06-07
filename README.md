@@ -20,6 +20,8 @@ We deliver state-of-the-art tech curriculum, help businesses transition into the
 ### [🤖 vibeLink (Mobile Terminal Bridge)](https://github.com/kodekorea/vibeLink)
 > **Mirror, monitor, and control your workstation directly from your mobile device.**
 >
+> 🌐 **Landing Page:** [vibelink.kodekorea.kr](https://vibelink.kodekorea.kr)
+>
 > vibeLink is a high-performance utility that enables developers to stay connected to their development environments and terminals securely over local networks. Consists of an Expo-based React Native mobile app and an Electron-based tray application.
 
 ---
